@@ -8,7 +8,7 @@ API REST desenvolvida em ASP.NET Core utilizando Entity Framework e MySQL.
 - Entity Framework Core
 - MySQL
 - Pomelo.EntityFrameworkCore.MySql
-- Swagger
+- Postman
 
 ## Funcionalidades
 
